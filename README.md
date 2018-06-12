@@ -9,7 +9,7 @@ A pure-Rust serialization library for `GVariant`.
 
 Through the [serde](serde) serialization framework, this crate provides
 support for reading and writing complex data structures recorded in
-[GVariant](gvariant) binary format.
+[GVariant](https://developer.gnome.org/glib/stable/glib-GVariant.html) binary format.
 
 [serde]: https://serde.rs/
 [gvariant]: https://developer.gnome.org/glib/stable/glib-GVariant.html
